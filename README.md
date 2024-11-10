@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <h2> 🧰 Languages and Tools: </h2>
 <p align="center">
-<img src="![image](https://github.com/user-attachments/assets/edb8ea25-82cb-4479-b693-964aa580d594)" alt="Angular" height="40" style="vertical-align:top; margin:4px">
+<img src="https://d585tldpucybw.cloudfront.net/sfimages/default-source/blogs/2023/2023-11/angular-logo-1200-303.png?sfvrsn=d8bbe35c_3" alt="Angular" height="40" style="vertical-align:top; margin:4px">
 <img src="https://content.techgig.com/thumb/msid-69596495,width-860,resizemode-4/5-tips-for-Python-Programmers-to-help-them-improve.jpg?50999" alt="Python" height="40" style="vertical-align:top; margin:4px">
   <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
