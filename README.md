@@ -52,5 +52,5 @@ Here are some ideas to get you started:
 <h2> 🤝🏻  Connect with Me <h2/>
 <p align="center">
 <a href="https://www.linkedin.com/in/tali-schvartz/" rel="nofollow"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRokEYt0yyh6uNDKL8uksVLlhZ35laKNQgZ9g&s" style="height:30px;"></a>  
-<a href="mailto:talischvartz@gamil.com"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d0/95/24/d0952470-b2fe-f628-1e30-0c4a444aadb3/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/1200x630wa.pngng" style="max-width:30%;"></a>
+<a href="mailto:talischvartz@gamil.com"><img src="https://help.apple.com/assets/66E1E1AFFD7397A57E0379E3/66E1E1B139B20683B208D334/en_US/e4dbb8e240d50cf30bab73b272a3760b.png" style="height:30px;"></a>
 </p>
